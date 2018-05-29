@@ -1,0 +1,17 @@
+recursion: a function that calls itself. It must also include a base case so that is starts to 'unpack' the stack. 
+
+side effect: an unitended effect when you change code. For example if you change your code to add and feature of fix and bug that then affects something that you didn't expect.
+
+dynamic typing: this means that variables are assigned types are run time and can change. static typing is when variables are assigned before run time.
+
+strong typing: variable types need to be explicitly changed, they can't just suddenly change.
+
+deep and shallow copy: deep copy a completely seprarate list is created. with a shallow copy both assignments point to the same objects.
+
+magic number: a number in your code that has no obvious meaning. This should be replaced by good vriable names to make your code more interpretable
+
+encapsulation: python doesn't actually do this. It is the process of protecting important variables and mthods of a class from being changed inadvertently. it can 'hide' the inside workings of a class and prevent someone from changing things from outside the class.
+
+refactoring: changing your code without changing the functionality. Normally done when you need to optimise your code for speed or interpertability.
+
+
